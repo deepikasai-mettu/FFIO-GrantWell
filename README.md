@@ -26,7 +26,7 @@ The chatbot will prompt the applicant to provide details about who is applying f
 - Before beginning any conversation with the chatbot about your grant application, ensure you upload your supplementary data to the backend. The scope of the chatbot's knowledge is limited to the documents in the knowledge base.
 - NOFO documents must be properly named on your Desktop before upload to GrantWell. The documents you upload will show up in the system as the file's name at time of upload.
 - PDF's are preferred for file upload, but keep in mind that GrantWell _cannot_ read .zip files.
-- Ensure you fact-check any information that GrantWell provides that you are uncertain about.
+- Ensure you fact check any information that GrantWell provides that you are uncertain about.
 
 # Architecture 
 <img src="https://raw.githubusercontent.com/deepikasai-mettu/FFIO-MVP-RAG-chatbot/main/lib/user-interface/app/public/images/architecture.png" alt="FFIO Architecture" width="500">
